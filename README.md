@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=31A8FF&height=200&section=header&text=Hello%20I'm%20JaeHyun&fontSize=50&rotate=13&fontAlign=60&fontAlignY=36)
 
 <div align=center>
-    <p>For BackEnd</p>
+    <p>Back-End Stack</p>
     <div>
     <img src="https://img.shields.io/badge/Java-FF9A00?style=flat&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
@@ -14,7 +14,7 @@
 </div>
 <br/><br/>
 <div align=center>
-    <p>Serverless Web Application</p>
+    <p>Front-End Stack</p>
     <div>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
@@ -29,7 +29,7 @@
 </div>
 <br/><br/>
 <div align=center>
-    <p>Data Science</p>
+    <p>Data Science Stack</p>
     <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white"/>
@@ -57,12 +57,15 @@
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
     </div>
 </div>
-
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wogus0518&layout=compact)](https://github.com/wogus0518/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wogus0518&show_icons=true&theme=radical)
-
+<br/><br/>
+<div align=center>
+    <p>SNS</p>
+    <div>
+        <a href="https://velog.io/@300mm">
+            <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
+        </a>
+        <a href="https://instagram.com/290.0mm">
+            <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+        </a>
+    </div>
+</div>
