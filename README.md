@@ -4,14 +4,16 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwogus0518&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 
-## こんにちは　정재현입니다.
+## こんにちは!　정재현입니다.
+
 🔸다양한 학습과 경험을 거쳐, 백엔드 개발자를 꿈꾸고 있습니다.      
 🔸배우는 것을 두려워하지 않습니다.   
 🔸Firebase + React 로 배포를 하여 1300명의 회원을 위해 서비스한 경험이 있습니다.   
 🔸테스트 코드를 항상 중요시 생각합니다.   
-단국대학교 전자전기공학부 (2016 ~ 2023.02 졸업예정)   
-멋쟁이사자처럼 백엔드 스쿨 2기 (22.09 ~ 23.02 수료예정)   
-
+🔸글로벌 서비스에 관심이 있습니다.   
+   
+🔹단국대학교 전자전기공학부 (2016 ~ 2023.02 졸업예정)   
+🔹멋쟁이사자처럼 백엔드 스쿨 2기 (22.09 ~ 23.02 수료예정)  
 👉<a href="https://velog.io/@300mm">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
 </a>
