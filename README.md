@@ -81,15 +81,3 @@
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
     </div>
 </div>
-<br/>
-<div align=center>
-    <p>SNS</p>
-    <div>
-        <a href="https://velog.io/@300mm">
-            <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
-        </a>
-        <a href="https://instagram.com/290.0mm">
-            <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
-        </a>
-    </div>
-</div>
