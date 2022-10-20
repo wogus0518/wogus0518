@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white"/>
     </div>
-    <div>Repository : <a href="https://github.com/wogus0518/LikeLion-Backend">백엔드 스쿨</a></div>
+    <div>Repository : <a href="https://github.com/wogus0518/likelion-backend-school">백엔드 스쿨</a></div>
 </div>
 <br/><br/>
 <div align=center>
